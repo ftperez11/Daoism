@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html --no-cache"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "ethers": "^5.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
